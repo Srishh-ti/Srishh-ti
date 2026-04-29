@@ -18,6 +18,12 @@ I enjoy working with data to uncover trends, build dashboards, and solve real-wo
 
 ## 📊 Featured Projects
 
+🔹 **Customer Trend Analysis**
+https://github.com/Srishh-ti/Customer-Trend-Data-Analysis
+
+* Performed customer segmentation and behavioral analysis
+* Generated insights for targeted strategies
+
 🔹 **Sales Analysis (Pizza)**
 https://github.com/Srishh-ti/PIZZA-SALES-ANALYSIS
 
@@ -41,12 +47,6 @@ https://github.com/Srishh-ti/Bank-Loan-Analysis
 
 * Evaluated customer data to detect loan default patterns
 * Highlighted risk segments for decision-making
-
-🔹 **Customer Trend Analysis**
-https://github.com/Srishh-ti/Customer-Trend-Data-Analysis
-
-* Performed customer segmentation and behavioral analysis
-* Generated insights for targeted strategies
 
 🔹 **House Price Prediction (ML)**
 https://github.com/Srishh-ti/House-Price-Prediction-System
